@@ -1,0 +1,51 @@
+body { 
+	padding-top: 70px;
+	background: url(../images/background2.jpg) no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#allCarousel {
+	margin-top: 40px;
+}
+
+.navbar {
+	background-color: #0E1717;
+	border: none;
+}
+
+h1 {
+	font-family: 'Baloo Bhai', cursive;
+	color: #ccc;
+	float: left;
+}
+
+#contactBtn {
+	margin-top: 20px;
+	float: right;
+	background-color: #ccc;
+}
+
+.images {
+	height: 100%;
+}
+
+#profileImg {
+	width: 100%;
+}
+
+#profileDiv {
+	margin-top: 40px;
+}
+
+p {
+	color: #ccc;
+	font-weight: bolder;
+	font-size: 25px;
+}
+
+#textDiv {
+	background-color:rgba(0, 0, 0, 0.2);
+}
