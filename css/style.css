@@ -8,7 +8,7 @@ body {
 }
 
 #allCarousel {
-	margin-top: 40px;
+	margin-top: 20px;
 }
 
 .navbar {
@@ -34,14 +34,36 @@ h1 {
 
 #profileImg {
 	width: 100%;
+	padding-top: 15px;
 }
 
-#profileDiv {
-	background-color:rgba(0, 0, 0, 0.9);
+#textDiv {
+	padding-top: 10px;
+}
+.spacing {
+	margin: 0px;
+	margin-top: 20px;
+	padding: 0px;
+	background-color:rgba(0, 0, 0, 0.2);
 }
 
-p {
+h4 {
 	color: #ccc;
 	font-weight: bolder;
 	font-size: 25px;
+	line-height: 1.5;
+	margin: 0px;
+}
+h2 {
+	color: #ccc;
+	font-weight: bolder;
+	font-size: 30px;
+	line-height: 1.5;
+	margin: 0px;
+}
+.headers {
+	padding: 15px;
+	border-bottom: solid;
+	border-color: #ccc;
+	border-width: 3px;
 }
