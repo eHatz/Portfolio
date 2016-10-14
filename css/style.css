@@ -67,3 +67,29 @@ h2 {
 	border-color: #ccc;
 	border-width: 3px;
 }
+
+.carousel-caption {
+	font-size: 20px;
+
+	font-weight: bold;
+}
+.carouselTitle {
+	text-decoration: underline;
+	font-weight: bolder;
+}
+#betFuture {
+	color: black;
+}
+
+#societyPin {
+	color: black;
+}
+#societyPinTitle {
+	color: white;
+}
+#mongoArticle {
+	color: black;
+}
+#rpsTitle {
+	color: black;
+}
