@@ -98,3 +98,12 @@ h2 {
 	color: white;
 	font-weight: bold;
 }
+
+#logoLinks {
+	text-align: center;
+	height: 70px;
+}
+.logos{
+	height: 100%;
+	padding: 0px 40px;
+}
