@@ -93,3 +93,8 @@ h2 {
 #rpsTitle {
 	color: black;
 }
+#clickCaption {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
